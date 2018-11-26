@@ -1,0 +1,6 @@
+framework module Pods_fbiosvn {
+  umbrella header "Pods-fbiosvn-umbrella.h"
+
+  export *
+  module * { export * }
+}

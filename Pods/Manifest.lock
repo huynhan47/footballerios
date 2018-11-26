@@ -1,0 +1,34 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.33.1)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK (~> 7.33)
+  - SQLite.swift (from `https://github.com/stephencelis/SQLite.swift.git`)
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Google-Mobile-Ads-SDK
+    - Toast-Swift
+
+EXTERNAL SOURCES:
+  SQLite.swift:
+    :git: https://github.com/stephencelis/SQLite.swift.git
+
+CHECKOUT OPTIONS:
+  SQLite.swift:
+    :commit: 74a6d6086f4affb0a4c0709bee85f82233c3fd52
+    :git: https://github.com/stephencelis/SQLite.swift.git
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 71c6d3e8d8f52673fa5a83fc0d027623b11fde16
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 14d68f7949a7aeb1615e59a826ce7c35abcc9f66
+
+COCOAPODS: 1.5.3
